@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.code-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.code{
+    width: 10px;
+    padding: 30px 20px;
+    margin: 10px;
+    border: 2px solid rgb(235, 229, 229);
+}
+
+h1 , p{
+    text-align: center;
+}
